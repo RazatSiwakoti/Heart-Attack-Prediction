@@ -1,0 +1,2 @@
+Requirments:
+pandas, numpy, matplotlib, seaborn, sklearn
